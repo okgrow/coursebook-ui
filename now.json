@@ -1,8 +1,8 @@
 {
-  "name": "learn-next-js",
+  "name": "okgrow-coursebook-ui",
   "env": {
     "NODE_ENV": "production",
-    "BACKEND_URL": "https://server.learnnextjs.com"
+    "BACKEND_URL": "https://okgrow-coursebook-server.now.sh"
   },
-  "alias": "learnnextjs.com"
+  "alias": "okgrow-coursebook-ui.now.sh"
 }

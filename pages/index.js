@@ -19,8 +19,8 @@ let HomePage = () => (
     <Header />
     <div className="content">
       <h2 className="start">START</h2>
-      <h1 className="learning">Learning Next.js</h1>
-      <h2 className="tagline">To build server rendered JS web apps with React</h2>
+      <h1 className="learning">Test your React skills! 🌚 </h1>
+      <h2 className="tagline">Don't be scared we're only going to quietly grab your score and use it to shame you publicly.</h2>
       <div className="call-to-action">
         <Link href={startHref} as={startAs}>
           <a>Start Now</a>

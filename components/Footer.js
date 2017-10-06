@@ -1,12 +1,12 @@
 export default () => (
   <div>
     <p>
-      Brought to you by <a href="https://zeit.co" target="_blank">▲ZEIT</a>.
-      Curated by <a href="https://twitter.com/arunoda" target="_blank">@arunoda</a>.
+      Brought to you by <a href="https://okgrow.com" target="_blank">OK GROW!</a>.
+      Twitter <a href="https://twitter.com/okgrow" target="_blank">@okgrow</a>.
     </p>
-    <p>
+    {/* <p> TODO:
       Visit <a href="https://github.com/arunoda/learnnextjs-content" target="_blank">here</a> to edit content.
-    </p>
+    </p> */}
     <style jsx>{`
       div {
         text-align: center;
